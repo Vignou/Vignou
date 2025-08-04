@@ -26,6 +26,8 @@ Here are some ideas to get you started:
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Vignou/Vignou/output/pacman-contribution-graph.svg">
 </picture>
 
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
+
 ###
 
 <br clear="both">
