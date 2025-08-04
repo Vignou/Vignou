@@ -45,4 +45,36 @@ Here are some ideas to get you started:
 
 ![Snake](https://raw.githubusercontent.com/yourname/repo/output-snake/snake.svg)
 
+# My GitHub Activity 🎮
+
+## Pacman Eating My Contributions
+
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/Vignou/Vignou/output-pacman/pacman-contribution-graph.svg">
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/Vignou/Vignou/output-pacman/pacman-contribution-graph.svg">
+  <img 
+    alt="Pacman eating my GitHub contributions" 
+    src="https://raw.githubusercontent.com/Vignou/Vignou/output-pacman/pacman-contribution-graph.svg"
+    width="100%">
+</picture>
+
+## Snake Chasing My Activity
+
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/Vignou/Vignou/output-snake/snake.svg?palette=github-dark">
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/Vignou/Vignou/output-snake/snake.svg?palette=github">
+  <img 
+    alt="Snake game of my GitHub contributions" 
+    src="https://raw.githubusercontent.com/Vignou/Vignou/output-snake/snake.svg"
+    width="100%">
+</picture>
+
 ###
