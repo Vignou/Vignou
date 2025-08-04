@@ -19,10 +19,7 @@ Here are some ideas to get you started:
 -->
 
 ###
-
-## My Contribution Graph 🎮
-
-###
+## Pacman Graph 🎮
 
 <picture>
   <source 
@@ -38,7 +35,7 @@ Here are some ideas to get you started:
 </picture>
 
 ###
-
+## Snake Graph 🐍
 <br clear="both">
 <img src="https://raw.githubusercontent.com/Vignou/Vignou/output/snake.svg" alt="Snake animation" />
 
