@@ -1,5 +1,5 @@
 
-name: generate pacman game
+name: generate pacman animation
 
 on:
   schedule:
