@@ -37,7 +37,7 @@ Here are some ideas to get you started:
     width="100%">
 </picture>
 
-<br clear="both">
+
 <img src="https://raw.githubusercontent.com/Vignou/Vignou/output/snake.svg" alt="Snake animation" />
 
 ###
