@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 <picture>
   <source 
     media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/Vignou/Vignou/output/pacman-contribution-graph-dark.svg">
+    srcset="https://raw.githubusercontent.com/Vignou/Vignou/pacman_output/pacman-contribution-graph-dark.svg">
   <source 
     media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/Vignou/Vignou/output/pacman-contribution-graph.svg">
+    srcset="https://raw.githubusercontent.com/Vignou/Vignou/pacman_output/pacman-contribution-graph.svg">
   <img 
     alt="Pacman eating my GitHub contributions" 
-    src="https://raw.githubusercontent.com/Vignou/Vignou/output/pacman-contribution-graph.svg"
+    src="https://raw.githubusercontent.com/Vignou/Vignou/pacman_output/pacman-contribution-graph.svg"
     width="100%">
 </picture>
 
