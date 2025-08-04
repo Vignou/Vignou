@@ -39,6 +39,6 @@ Here are some ideas to get you started:
 ## Snake Graph 🐍
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/Vignou/Vignou/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Vignou/Vignou/snake_output/snake.svg" alt="Snake animation" />
 
 ###
