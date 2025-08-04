@@ -24,7 +24,6 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vignou/Vignou/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Vignou/Vignou/output/pacman-contribution-graph.svg">
 </picture>
-###
 
 ###
 
