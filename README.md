@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 ## My Contribution Graph 🎮
 
+###
+
 <picture>
   <source 
     media="(prefers-color-scheme: dark)" 
