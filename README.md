@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 ## Pacman Graph 🎮
 
-![Pacman](https://raw.githubusercontent.com/yourname/repo/output-pacman/pacman-contribution-graph.svg)
-
 <picture>
   <source 
     media="(prefers-color-scheme: dark)" 
@@ -42,39 +40,5 @@ Here are some ideas to get you started:
 
 <br clear="both">
 <img src="https://raw.githubusercontent.com/Vignou/Vignou/output/snake.svg" alt="Snake animation" />
-
-![Snake](https://raw.githubusercontent.com/yourname/repo/output-snake/snake.svg)
-
-# My GitHub Activity 🎮
-
-## Pacman Eating My Contributions
-
-<picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/Vignou/Vignou/output-pacman/pacman-contribution-graph.svg">
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/Vignou/Vignou/output-pacman/pacman-contribution-graph.svg">
-  <img 
-    alt="Pacman eating my GitHub contributions" 
-    src="https://raw.githubusercontent.com/Vignou/Vignou/output-pacman/pacman-contribution-graph.svg"
-    width="100%">
-</picture>
-
-## Snake Chasing My Activity
-
-<picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/Vignou/Vignou/output-snake/snake.svg?palette=github-dark">
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/Vignou/Vignou/output-snake/snake.svg?palette=github">
-  <img 
-    alt="Snake game of my GitHub contributions" 
-    src="https://raw.githubusercontent.com/Vignou/Vignou/output-snake/snake.svg"
-    width="100%">
-</picture>
 
 ###
