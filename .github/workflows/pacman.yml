@@ -1,8 +1,8 @@
-name: Snake Contribution Graph
+name: Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */24 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -23,27 +23,31 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Create output-snake branch if not exists
+      - name: Create output-pacman branch if not exists
         run: |
-          if ! git ls-remote --heads origin output-snake | grep output-snake; then
-            git checkout --orphan output-snake
+          if ! git ls-remote --heads origin output-pacman | grep output-pacman; then
+            git checkout --orphan output-pacman
             git rm -rf .
             git commit --allow-empty -m "Initial empty commit"
-            git push origin output-snake
+            git push origin output-pacman
             git checkout main
           fi
 
-      - name: Generate Snake SVG
-        uses: Platane/snk/svg-only@v3
+      - name: Generate Pacman SVG
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake/snake.svg?palette=github-dark
+
+      - name: Prepare output
+        run: |
+          mkdir -p dist/pacman
+          mv pacman-contribution-graph.svg dist/pacman/
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output-snake
-          build_dir: dist/snake
+          target_branch: output-pacman
+          build_dir: dist/pacman
           keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

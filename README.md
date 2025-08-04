@@ -2,7 +2,6 @@
 
 <h2 align="left">Hi 👋! My name is Drewy</h2>
 
-
 <!--
 **Vignou/Vignou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +18,10 @@ Here are some ideas to get you started:
 -->
 
 ###
+
 ## Pacman Graph 🎮
+
+![Pacman](https://raw.githubusercontent.com/yourname/repo/output-pacman/pacman-contribution-graph.svg)
 
 <picture>
   <source 
@@ -35,8 +37,12 @@ Here are some ideas to get you started:
 </picture>
 
 ###
+
 ## Snake Graph 🐍
+
 <br clear="both">
 <img src="https://raw.githubusercontent.com/Vignou/Vignou/output/snake.svg" alt="Snake animation" />
+
+![Snake](https://raw.githubusercontent.com/yourname/repo/output-snake/snake.svg)
 
 ###
